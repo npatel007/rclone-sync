@@ -35,7 +35,7 @@ echo.
 %ch% {08}  ║     {07}Script - Rsync for cloud storage:				 {08}║ {\n #}
 %ch% {08}  ╚══════════════════════════════════════════════════════════════════════╝ {\n #}
 echo.
-%ch%		Current Store: {0a}% STORAGE_PATH% {#} ^ | Operating Mode: {0a}% MODE% {#} {\n #}
+%ch%		Current Storage: {0a}%STORAGE_PATH%{#} ^| Operating Mode: {0a}%MODE%{#}{\n #}
 echo.
 echo.	Options for choosing:
 echo.
