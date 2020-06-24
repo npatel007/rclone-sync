@@ -48,7 +48,7 @@ echo.
 %ch% {0b}  [4]{#} = {0e} Storage Information {#}; {\n#}
 echo.
 %ch% {0b}  [0]{#} = {0c} Sign out. {\n#}
-%ch%												{08}^| Версия %SCRIPT_VERSION%{\n #}
+%ch%												{08}^| Version %SCRIPT_VERSION%{\n #}
 echo.
 set /p choice=--- Your choice:
 if '%choice%'=='1' goto GO_SYNC_1
